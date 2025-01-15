@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptoBaseHub</title>
+    <style>
+        body {
+            background-color: #FF0000; /* Pure Red */
+            color: white; /* Assuming you want white text for contrast */
+            margin: 0; /* Removes default margin around the body */
+            padding: 0; /* Removes default padding around the body */
+        }
+    </style>
+</head>
+<body>
+    <!-- Your website content goes here -->
+</body>
+</html>
